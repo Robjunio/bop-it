@@ -1,0 +1,3 @@
+Split track into two:
+1 - Turn on sound (plays in the beginning)
+2 - Is on sound (loops while is on)

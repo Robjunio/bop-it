@@ -1,0 +1,3 @@
+- Make it shorter and abrupt
+
+- Plays whenever tv changes image
