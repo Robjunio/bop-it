@@ -1,0 +1,1 @@
+Play right sound as ticking slows down and stops (or fade out)
